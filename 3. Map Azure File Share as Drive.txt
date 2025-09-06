@@ -1,0 +1,1 @@
+net use Z: \\stinfrafiles123.file.core.windows.net\itsales /user:Azure\stinfrafiles123 <STORAGE-KEY> /persistent:yes

@@ -1,0 +1,15 @@
+
+---
+
+## **docs/99-ITIL-Mapping.md**
+
+```markdown
+# ITIL Mapping for Project
+
+| ITIL Process                 | Lab Example |
+|-------------------------------|------------|
+| Service Request Management    | Created new user Navya & access to Sales share |
+| Change Management             | Promoted DC, created GPOs, mapped drives |
+| Incident Management           | Login or GPO issues, troubleshooting & resolving |
+| Problem Management            | Repeated mapped drive failures, root cause fix |
+| Asset & Configuration Mgmt    | VMs, IPs, GPOs recorded; GitHub docs as lightweight CMDB |
